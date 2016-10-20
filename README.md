@@ -1,4 +1,4 @@
-# bitexpert-cs-jshint [![Dependency Status](https://www.versioneye.com/nodejs/bitexpert-cs-jshint/0.1.4/badge.svg)](https://www.versioneye.com/nodejs/bitexpert-cs-jshint/0.1.4)
+# bitexpert-cs-jshint [![Dependency Status](https://www.versioneye.com/user/projects/5808a6b2c3e528003890e018/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/5808a6b2c3e528003890e018)
 
 
 This repository contains the configuration for jshint which is used by the grunt-contrib-jshint plugin to validate 
